@@ -1,0 +1,15 @@
+{
+	"name": "df-spotifyprj",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "16566266-b343-47fb-aec5-c6643d3be65b",
+		"tenantId": "15283b75-73a7-425b-b08f-65b135733cb2"
+	}
+}
